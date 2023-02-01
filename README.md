@@ -13,3 +13,8 @@ Stevie's favorite ice cream flavors:
 - Meal worm
 - Shrimp flakes
 - Sunflower seed
+
+Raghav's favorite ice cream flavors:
+
+- Vanilla
+- Butterscotch
